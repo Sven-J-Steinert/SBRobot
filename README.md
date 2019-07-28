@@ -46,3 +46,5 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 I was using a lasercutter to cut the template out of the PMMA and MDF. Here is the preview of the case.cdr
 ![alt text](https://abload.de/img/caseh0kdq.png)
 
+# Comments
+The MPU-6050 comes with an individual offset that can be found with this code https://github.com/jrowberg/i2cdevlib/blob/master/Arduino/MPU6050/examples/IMU_Zero/IMU_Zero.ino
