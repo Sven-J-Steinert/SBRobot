@@ -2,7 +2,7 @@
 PID SelfBalancingRobot ESP8266
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
-Markup :  # Partlist #
+# Partlist
  
 |QTY|	DESCRIPTION	|PART NAME|
 | :---   | :---   | :---   |
@@ -37,5 +37,6 @@ Markup :  # Partlist #
 ![alt text](https://abload.de/img/pinoutkekdu.png)
 
 # Datasheets
+
 ![alt text](https://abload.de/img/multiplex99k1b.png)
 
