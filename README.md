@@ -17,9 +17,6 @@ PID SelfBalancingRobot ESP8266
 |4|	Battery|	Samsung INR18650-35E  3450mAh 3.7V|
 |1|	Multiplexer|	74HC4051 8-Channel analog / digital DIP16|
 |3|	Potentiometer|	10kΩ linear mono|
-
-|QTY|	DESCRIPTION	|PART NAME|
-| :---   | :---   | :---   |
 |1|	Battery Holder|	4x 18650 82x85x26mm|
 |1|	Battery Charger|	NiteCore Digicharger D4|
 |1|	Switch|	2 Position Toggle Switch|
@@ -31,9 +28,6 @@ PID SelfBalancingRobot ESP8266
 |7|	Screw Nuts|	M3 Full Nut|
 |2|	Wheel|	MDF 6mm|
 |2|	Rubber|	cut bicycle tube|
-
-|QTY|	DESCRIPTION	|PART NAME|
-| :---   | :---   | :---   |
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
