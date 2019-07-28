@@ -31,7 +31,7 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
-# Wireing
+# Wiring
 ![alt text](https://abload.de/img/sbr_steckplatinem7jlx.png)
 
 # Pinout
