@@ -1,5 +1,11 @@
 # SBRobot
-Markup :  ============= PID SelfBalancingRobot ESP8266
+PID SelfBalancingRobot ESP8266
+
+Markup :  ## Heading 2 ##
+
+-OR-
+
+Markup: --------------- (below H2 text)
 
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
