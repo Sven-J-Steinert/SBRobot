@@ -7,7 +7,7 @@
  http://www.brokking.net/yabr_main.html
  and Jeff Rowberg
  https://github.com/jrowberg
- modified and implemented by Niklas B. and Sven S.
+ modified and implemented by Niklas B. and Sven Steinert
  created for TU Darmstadt in 2019
  ==================================================================
 */
