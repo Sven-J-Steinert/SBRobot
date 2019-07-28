@@ -43,6 +43,6 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 ![alt text](https://abload.de/img/drivervpjqb.png)
 
 # Case
-I was using a lasercutter to cut the PMMA and MDF. 
+I was using a lasercutter to cut the template out of the PMMA and MDF. Here is the preview of the case.cdr
 ![alt text](https://abload.de/img/caseh0kdq.png)
 
