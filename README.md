@@ -32,7 +32,7 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
 # Wiring
-![alt text](https://abload.de/img/sbr_steckplatinem7jlx.png)
+![alt text](https://abload.de/img/sbr_steckplatineaoj8r.png)
 
 # Pinout
 ![alt text](https://abload.de/img/pinoutkekdu.png)
