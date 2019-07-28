@@ -1,11 +1,5 @@
 # SBRobot
 PID SelfBalancingRobot ESP8266
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-
-
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
 Markup :  # Partlist #
@@ -36,13 +30,12 @@ Markup :  # Partlist #
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
-Markup :  # Wireing #
+# Wireing
 ![alt text](https://abload.de/img/sbr_steckplatinem7jlx.png)
 
-Markup :  # Pinout #
+# Pinout
 ![alt text](https://abload.de/img/pinoutkekdu.png)
 
-Markup :  # Datasheets #
+# Datasheets
 ![alt text](https://abload.de/img/multiplex99k1b.png)
 
-datasheets
