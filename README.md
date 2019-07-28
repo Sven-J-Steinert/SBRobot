@@ -5,8 +5,9 @@ PID SelfBalancingRobot ESP8266
 
 partlist
 
-QTY	DESCRIPTION	PART NAME
-1	Microcontrollerboard	NodeMCU v3.2 ESP8266 Dev Kit WIFI Lolin Amica CP2102
+|QTY|	DESCRIPTION	|PART NAME|
+| :---   | :---   | :---   |
+|1|Microcontrollerboard|	NodeMCU v3.2 ESP8266 Dev Kit WIFI Lolin Amica CP2102|
 1	Gyroscope	GY-521 MPU-6050
 2	Stepper Motor	Nema 17 34mm 26Ncm 12V 0.4A
 2	Stepper Motor Driver	DRV8825
