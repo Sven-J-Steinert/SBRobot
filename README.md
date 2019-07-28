@@ -3,6 +3,7 @@ PID SelfBalancingRobot ESP8266
 
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
+Markup :  # Partlist #
  
 |QTY|	DESCRIPTION	|PART NAME|
 | :---   | :---   | :---   |
@@ -30,11 +31,13 @@ PID SelfBalancingRobot ESP8266
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
+Markup :  # Wireing #
 ![alt text](https://abload.de/img/sbr_steckplatinem7jlx.png)
 
-
+Markup :  # Pinout #
 ![alt text](https://abload.de/img/pinoutkekdu.png)
 
+Markup :  # Datasheets #
 ![alt text](https://abload.de/img/multiplex99k1b.png)
 
 datasheets
