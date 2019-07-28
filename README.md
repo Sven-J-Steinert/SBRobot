@@ -47,4 +47,7 @@ I was using a lasercutter to cut the template out of the PMMA and MDF. Here is t
 ![alt text](https://abload.de/img/caseh0kdq.png)
 
 # Comments
-The MPU-6050 comes with an individual offset that can be found with this code https://github.com/jrowberg/i2cdevlib/blob/master/Arduino/MPU6050/examples/IMU_Zero/IMU_Zero.ino
+The MPU-6050 comes with an individual offset that can be found with this code
+https://github.com/jrowberg/i2cdevlib/blob/master/Arduino/MPU6050/examples/IMU_Zero/IMU_Zero.ino
+Also are the PID values depending on system atttributes like mass or center of mass
+The individual settings are signed by the Name of the 2 Robots i made named Ella and Sören
