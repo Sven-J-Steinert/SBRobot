@@ -3,7 +3,6 @@ PID SelfBalancingRobot ESP8266
 
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
- Partlist
  
 |QTY|	DESCRIPTION	|PART NAME|
 | :---   | :---   | :---   |
@@ -15,8 +14,8 @@ PID SelfBalancingRobot ESP8266
 |1|	Boost Modul Step Up|	XL6009 DC-DC 3.5V-32V 3A|
 |1|	Buck Step Down|	XD-45 MH mini 360 DC-DC LM2596|
 |4|	Battery|	Samsung INR18650-35E  3450mAh 3.7V|
-|1|	Multiplexer|	74HC4051 8-Channel analog / digital DIP16|
-|3|	Potentiometer|	10kΩ linear mono|
+|1|	Multiplexer|	74HC4051 8-Channel Analog / Digital DIP16|
+|3|	Potentiometer|	10kΩ Linear Mono|
 |1|	Battery Holder|	4x 18650 82x85x26mm|
 |1|	Battery Charger|	NiteCore Digicharger D4|
 |1|	Switch|	2 Position Toggle Switch|
@@ -27,7 +26,7 @@ PID SelfBalancingRobot ESP8266
 |3|	Battery Screws|	M3 Flat Head 12mm|
 |7|	Screw Nuts|	M3 Full Nut|
 |2|	Wheel|	MDF 6mm|
-|2|	Rubber|	cut bicycle tube|
+|2|	Rubber|	Cut Bicycle Tube|
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
