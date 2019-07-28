@@ -1,3 +1,7 @@
+# Self balancing Robot
+This ESP8266 based Robot is PID controled by an MPU-6050
+Build up on previous projects thanks to Joop Brokking and Jeff Rowberg
+
 ![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
 
 # Partlist
