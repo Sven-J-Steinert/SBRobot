@@ -30,7 +30,7 @@ PID SelfBalancingRobot ESP8266
 |1|	Remote Microcontroller|	D1 Mini ESP8266 Wifi Nodemcu Modul|
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
-![alt text](https://abload.de/img/sbr_steckplatineimkz1.png)
+![alt text](https://abload.de/img/sbr_steckplatinem7jlx.png)
 
 
 datasheets
