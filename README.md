@@ -1,4 +1,4 @@
 # SBRobot
 SelfBalancingRobot
 
-![alt text](https://i.imgur.com/w5IQvve.jpg)
+![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)
