@@ -388,8 +388,6 @@ void loop() {
  
  
     }
-    //angle_gyro = ypr[1] * 180/M_PI -90;
-    //Serial.print(angle_gyro);
  
     readDir();
  
@@ -404,18 +402,23 @@ void loop() {
       double d = 0;
       double v = 0;
       readMultiplexer(&p,&i,&d, &v);
-      /*
+ 
+     /*
       //  Sören
       pid_p_gain = 10+15*p/1024;
       pid_i_gain = 0.8+.7*i/1024;
       pid_d_gain = 15+10*d/1024;
     */
+ 
       //  Ella
+      //  find an appropriate PID intervall for your idividual system
       pid_p_gain = 15+15*p/1024;
       pid_i_gain = 0.6+.7*i/1024;
       pid_d_gain = 20+10*d/1024;
+ 
     //Serial.println(pid_setpoint);
     Serial.print(" P=");Serial.print(pid_p_gain);Serial.print(" I=");Serial.print(pid_i_gain);Serial.print(" D=");Serial.println(pid_d_gain);
+    
     //PID
     pid_error_temp = angle_gyro - self_balance_pid_setpoint - pid_setpoint;
     //Serial.print(" "); Serial.print(pid_error_temp);
@@ -475,7 +478,7 @@ void loop() {
    
    
     // PID MAIN
-    if(pid_setpoint == 0){                                                    //If the setpoint is zero degrees
+    if(pid_setpoint == 0){                                                  //If the setpoint is zero degrees
     if(pid_output < 0)self_balance_pid_setpoint += 0.0015;                  //Increase the self_balance_pid_setpoint if the robot is still moving forewards
     if(pid_output > 0)self_balance_pid_setpoint -= 0.0015;                  //Decrease the self_balance_pid_setpoint if the robot is still moving backwards
     }
