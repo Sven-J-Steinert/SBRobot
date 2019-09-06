@@ -148,9 +148,7 @@ int receive_counter;
 byte start;
  
 //Various settings
-double pid_p_gain = 4;                                       //Gain setting for the P-controller (15)
-double pid_i_gain = .5;                                      //Gain setting for the I-controller (1.5)
-double pid_d_gain = 5;                                       //Gain setting for the D-controller (30)
+double pid_p_gain,pid_i_gain,pid_d_gain;                     //Gain values for the PID-controller 
 float turning_speed = 30;                                    //Turning speed (20)
 float max_target_speed = 150;                                //Max target speed (100)
  
@@ -174,7 +172,7 @@ void readDir();
 // ===               INTERRUPT DETECTION ROUTINE                ===
 // ================================================================
  
-volatile bool mpuInterrupt = false;     // indicates whether MPU interrupt pin has gone high
+volatile bool mpuInterrupt = false;       // indicates whether MPU interrupt pin has gone high 
 void dmpDataReady() {
     mpuInterrupt = true;
 }
@@ -227,6 +225,7 @@ void setup() {
 */
  
     // Ella
+    // insert your individual offsets here
     mpu.setXGyroOffset(81);
     mpu.setYGyroOffset(-27);
     mpu.setZGyroOffset(25);
