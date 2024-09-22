@@ -1,7 +1,7 @@
 # Self balancing Robot
 This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous projects thanks to Joop Brokking and Jeff Rowberg. Developed and build by Sven Steinert to represent Industrial Engineering for TU Darmstadt 2019.
 
-[![alt text](https://abload.de/img/selfbalancingrobothd_vqkew.jpg)](https://youtu.be/vweXHHejacc)
+[![alt text](/docs/img/selfbalancingrobothd_vqkew.jpg)](https://youtu.be/vweXHHejacc)
 
 # Partlist
  
@@ -32,19 +32,19 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
 # Wiring
-![alt text](https://abload.de/img/sbr_steckplatinex9j7o.png)
+![alt text](/docs/img/img/sbr_steckplatinex9j7o.png)
 
 # Pinout
-![alt text](https://abload.de/img/pinoutkekdu.png)
+![alt text](/docs/img/img/pinoutkekdu.png)
 
 # Datasheets
 
-![alt text](https://abload.de/img/multiplex99k1b.png)
-![alt text](https://abload.de/img/drivervpjqb.png)
+![alt text](/docs/img/img/multiplex99k1b.png)
+![alt text](/docs/img/img/drivervpjqb.png)
 
 # Case
 I was using a lasercutter to cut the template out of the PMMA and MDF. Here is the preview of the case.cdr
-![alt text](https://abload.de/img/caseh0kdq.png)
+![alt text](/docs/img/img/caseh0kdq.png)
 
 # Comments
 The MPU-6050 comes with an individual offset that can be found with this code
