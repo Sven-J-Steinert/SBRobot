@@ -32,19 +32,19 @@ This ESP8266 based Robot is PID controled by an MPU-6050 build up on previous pr
 |1|	Remote|	Nunchuk Controller for Nintendo Wii|
 
 # Wiring
-![alt text](/docs/img/img/sbr_steckplatinex9j7o.png)
+![alt text](/docs/img/sbr_steckplatinex9j7o.png)
 
 # Pinout
-![alt text](/docs/img/img/pinoutkekdu.png)
+![alt text](/docs/img/pinoutkekdu.png)
 
 # Datasheets
 
-![alt text](/docs/img/img/multiplex99k1b.png)
-![alt text](/docs/img/img/drivervpjqb.png)
+![alt text](/docs/img/multiplex99k1b.png)
+![alt text](/docs/img/drivervpjqb.png)
 
 # Case
 I was using a lasercutter to cut the template out of the PMMA and MDF. Here is the preview of the case.cdr
-![alt text](/docs/img/img/caseh0kdq.png)
+![alt text](/docs/img/caseh0kdq.png)
 
 # Comments
 The MPU-6050 comes with an individual offset that can be found with this code
